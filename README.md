@@ -1,5 +1,5 @@
 ## JSP를 이용한 게시판만들기
-[블로그에 자세한 설명을 작성해놓았습니다.](https://velog.io/@mingmang17?tag=JSP-%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%A7%8C%EB%93%A4%EA%B8%B0)
+[자세한 설명은 블로그 ](https://velog.io/@mingmang17?tag=JSP-%EA%B2%8C%EC%8B%9C%ED%8C%90%EB%A7%8C%EB%93%A4%EA%B8%B0)
 ### 로그인 페이지 디자인
 * [로그인 페이지](./login.jsp)
 ### 회원가입 페이지 디자인
